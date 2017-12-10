@@ -1,0 +1,6 @@
+framework module Pods_Uber_For_RiderTests {
+  umbrella header "Pods-Uber For RiderTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
